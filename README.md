@@ -10,7 +10,7 @@ Make sure you have Node.js and npm installed on your machine.
 ### Installing
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/NegativE333/nodejs-with-typescript.git
+git clone https://github.com/NegativE333/nodejs-typescript-boilerplate.git
 ```
 
 2. Navigate to the project directory:
