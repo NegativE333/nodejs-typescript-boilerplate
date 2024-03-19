@@ -15,7 +15,7 @@ git clone https://github.com/NegativE333/nodejs-typescript-boilerplate.git
 
 2. Navigate to the project directory:
 ```bash
-cd nodejs-with-typescript
+cd nodejs-typescript-boilerplate
 ```
 
 3. Install dependencies:
